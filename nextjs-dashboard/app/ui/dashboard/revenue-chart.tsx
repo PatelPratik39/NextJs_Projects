@@ -29,7 +29,7 @@ import { fetchRevenue } from '@/app/lib/data';
   return (
     <div className="w-full md:col-span-4">
       <h2 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
-        Pratik's Recent Revenue App
+        Recent Revenue App
       </h2>
       {/* NOTE: comment in this code when you get to this point in the course */}
 
