@@ -21,5 +21,8 @@ npm run dev
 ```
 npm run build
 ```
-
-
+## login access:
+```
+email: 'user@nextmail.com',
+password: '123456'
+```
